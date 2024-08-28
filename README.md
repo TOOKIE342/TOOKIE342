@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TOOKIE342
+- 👋 Hi, I’m TOOKIE342
 - 👀 I’m interested in I-Bot 
 - 🌱 I’m currently learning technology 
 - 💞️ I’m looking to collaborate on KERM_v2
